@@ -56,7 +56,7 @@ class Cat(Animal):
 # testDragon = Dragon('Draco')
 # testDragon.displayHealth()
 # testDragon2 = Dragon('Ugin', 2000)
-# # testDragon2.run().run().fly().displayHealth()
+# testDragon2.run().run().fly().displayHealth()
 
 # kitty1 = Cat('Frank')
 # kitty1.displayHealth()
